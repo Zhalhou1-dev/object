@@ -1,0 +1,23 @@
+body{
+    background:cover;
+    text-align: center;
+}
+#name{
+    width: 100%;
+    margin-top: 10px;
+    background-color: white;
+}
+.copy_right_footer{
+    position: fixed;
+    color: purple;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+
+}
+#header{
+    width: 100%;
+    
+}
